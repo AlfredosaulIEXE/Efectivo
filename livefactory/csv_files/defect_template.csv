@@ -1,0 +1,1 @@
+defect_name,defect_description,user_assigned_id,defect_status_id,defect_type_id,defect_priority_id,defect_progress,actual_end_datetime,actual_start_datetime,expected_start_datetime,expected_end_datetime,time_spent
